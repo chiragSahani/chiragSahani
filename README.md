@@ -31,12 +31,12 @@ Hi, I'm **Chirag**, a passionate **Computer Science Engineer** with a knack for 
    - Developed a full-stack e-commerce platform with user authentication, product management, and shopping cart functionalities.
    - Integrated features like JWT-based authentication for secure user access and implemented a RESTful API for handling product and order data.
 
-### 2. **[AI Voicebot](https://github.com/chiragSahani/ai-voicebot)**
+### 2. **[AI Voicebot]([https://github.com/chiragSahani/ai-voicebot](https://github.com/chiragSahani/AI_Voice_Alexa.git))**
    - **Tech Stack**: Python, GPT-4, Speech Recognition
    - Built an AI-powered voicebot similar to Alexa and Siri, leveraging GPT-4 for natural language understanding and speech recognition.
    - Implemented real-time communication, allowing users to interact through voice commands and receive intelligent responses.
 
-### 3. **[Generative AI Application]
+### 3. **[Generative AI Application]([[https://github.com/chiragSahani/ai-voicebot](https://aichiragbot.ccbp.tech/)]([https://github.com/chiragSahani/AI_Voice_Alexa.git](https://aichiragbot.ccbp.tech/)))**
    - **Tech Stack**: Python, GPT-4, OpenAI API
    - Developed a generative AI application to help users create unique content based on their preferences.
    - Integrated natural language processing (NLP) techniques to enable context-aware generation.
@@ -46,7 +46,7 @@ Hi, I'm **Chirag**, a passionate **Computer Science Engineer** with a knack for 
    - Built an MVP for a concierge AI-powered ideation API, designed to help businesses generate, refine, and validate product ideas.
    - Features included a web interface, ideation specialists, and a flexible pricing model.
 
-### 5. **[Stroke Prediction](https://github.com/your-username/stroke-prediction)**
+### 5. **[Stroke Prediction]([https://github.com/your-username/stroke-prediction](https://github.com/chiragSahani/Heart_disease.git))**
    - **Tech Stack**: Python, Machine Learning
    - Developed a machine learning model to predict stroke risk based on input data, using scikit-learn for model training and evaluation.
    - Improved healthcare outcomes by providing early predictions and recommendations based on user data.
