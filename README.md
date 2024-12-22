@@ -1,8 +1,3 @@
-
-
-
-
-```markdown
 # 👋 Welcome to My GitHub Profile!  
 
 ![Welcome Banner](https://user-images.githubusercontent.com/your-banner-link.gif)
@@ -87,5 +82,3 @@ Hi, I'm **Chirag**, a passionate **Computer Science Engineer** with a knack for 
 ---
 
 ⭐ **"Code is my playground, innovation is my game."**  
-```
-
