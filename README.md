@@ -1,4 +1,6 @@
-# 👋 Welcome to My GitHub Profile!  
+# 👋 Welcome to My GitHub Profile!
+
+## 🌟 Let's dive into the world of innovation, code, and creativity.
 
 ![Welcome Banner](https://user-images.githubusercontent.com/your-banner-link.gif)
 
@@ -153,7 +155,7 @@ Hi, I'm **Chirag**! I'm a **goal-oriented** and **passionate Software Developer*
 ---
 
 
-## ⭐ **"Code is my playground, innovation is my game."**
+## ⭐ **Code is my playground, innovation is my game.**
 
 ![Code is my playground, innovation is my game.](https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif)
 
