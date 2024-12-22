@@ -13,14 +13,7 @@ Hi, I'm **Chirag**, a passionate **Computer Science Engineer** with a knack for 
 
 ---
 
-## 🔥 My GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=radical" alt="GitHub Stats" height="180px" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=your-github-username&theme=radical" alt="GitHub Streak" height="180px" />
-</p>
-
----
 
 ## 💼 Projects & Work
 
@@ -31,11 +24,44 @@ Hi, I'm **Chirag**, a passionate **Computer Science Engineer** with a knack for 
 - **[View Here]([https://your-portfolio-link.com](https://chiragsahni093.netlify.app/))**  
 - A dynamic and responsive showcase of my journey, skills, and achievements.
 
-✨ **Other Projects**:
-- **Stroke Prediction**: Leveraging ML to predict health risks.  
-- **Netflix Clone**: Front-end static project to replicate Netflix UI.  
-- **NestTravels**: Responsive tourism website with enhanced UX/UI.  
-- **UI/UX Redesign**: Revamped the Ola application design with a fresh perspective.
+## 💻 Best Projects
+
+### 1. **[E-commerce Application]([https://github.com/your-username/e-commerce-app](https://chiragtech.ccbp.tech/))**
+   - **Tech Stack**: Node.js, Express, MongoDB, JWT
+   - Developed a full-stack e-commerce platform with user authentication, product management, and shopping cart functionalities.
+   - Integrated features like JWT-based authentication for secure user access and implemented a RESTful API for handling product and order data.
+
+### 2. **[AI Voicebot](https://github.com/chiragSahani/ai-voicebot)**
+   - **Tech Stack**: Python, GPT-4, Speech Recognition
+   - Built an AI-powered voicebot similar to Alexa and Siri, leveraging GPT-4 for natural language understanding and speech recognition.
+   - Implemented real-time communication, allowing users to interact through voice commands and receive intelligent responses.
+
+### 3. **[Generative AI Application]
+   - **Tech Stack**: Python, GPT-4, OpenAI API
+   - Developed a generative AI application to help users create unique content based on their preferences.
+   - Integrated natural language processing (NLP) techniques to enable context-aware generation.
+
+### 4. **[StrideAPI]([https://chiragtech.ccbp.tech/](https://strideapi.wegic.app/))**
+   - **Tech Stack**: Node.js, Express, MongoDB, RESTful APIs
+   - Built an MVP for a concierge AI-powered ideation API, designed to help businesses generate, refine, and validate product ideas.
+   - Features included a web interface, ideation specialists, and a flexible pricing model.
+
+### 5. **[Stroke Prediction](https://github.com/your-username/stroke-prediction)**
+   - **Tech Stack**: Python, Machine Learning
+   - Developed a machine learning model to predict stroke risk based on input data, using scikit-learn for model training and evaluation.
+   - Improved healthcare outcomes by providing early predictions and recommendations based on user data.
+
+### 6. **[Netflix Clone]([https://github.com/your-username/netflix-clone](https://netchir95.ccbp.tech/))**
+   - **Tech Stack**: HTML, CSS, JavaScript
+   - Built a static version of Netflix to demonstrate front-end development skills and design concepts.
+   - Focused on a responsive layout, content management, and UI/UX design.
+
+### 7. **[NestTravels]([https://github.com/your-username/nesttravels](https://nesttravels99.ccbp.tech/))**
+   - **Tech Stack**: HTML, CSS, JavaScript
+   - Developed a responsive tourism website for exploring travel destinations with a user-friendly interface and optimized for mobile compatibility.
+   - Included features like interactive maps and booking systems.
+
+
 
 ---
 
@@ -51,11 +77,18 @@ Hi, I'm **Chirag**, a passionate **Computer Science Engineer** with a knack for 
 
 ---
 
-## 🎉 Achievements
+## 🏆 Achievements
 
-🏅 **120/120** in DSA Sprint and **100% live sprint**.  
-🎓 **Vice President**, ACM Student Chapter at CGC Jhanjeri.  
-🎨 Completed **UI/UX redesign** of the Ola application.  
+### Academic & Competitive Recognition:
+- **Gold Medal** 🏅 in **Computer Science Engineering** at **CGC Jhanjeri**. Awarded for outstanding academic performance.
+- **Silver Medal** 🥈 at **Skill India** (State Level), demonstrating expertise and practical skills in the field.
+- Ranked **55th** in the **National Level Coding Challenge**, cementing my problem-solving abilities among thousands of participants.
+
+### Leadership & Contributions:
+- Currently serving as **Vice President** of the **ACM Student Chapter** at **CGC Jhanjeri**, leading initiatives and community-building efforts within the chapter.
+
+
+
 
 ---
 
@@ -68,7 +101,7 @@ Hi, I'm **Chirag**, a passionate **Computer Science Engineer** with a knack for 
   <a href="mailto:chiragsahani093@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail" />
   </a>
-  <a href="https://github.com/your-username" target="_blank">
+  <a href="https://github.com/chiragSahani" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github" />
   </a>
 </p>
