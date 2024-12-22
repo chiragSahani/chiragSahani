@@ -17,46 +17,46 @@ Hi, I'm **Chirag**, a passionate **Computer Science Engineer** with a knack for 
 
 ## 💼 Projects & Work
 
-🚀 **[StrideAPI]([https://your-strideapi-link.com](https://strideapi.wegic.app/))**  
+🚀 **[StrideAPI](https://strideapi.wegic.app/)**  
 - An **AI-powered ideation platform** for businesses to innovate, refine, and validate product ideas.
 
 🌐 **Portfolio Website**  
-- **[View Here]([https://your-portfolio-link.com](https://chiragsahni093.netlify.app/))**  
+- **[View Here](https://chiragsahni093.netlify.app/)**  
 - A dynamic and responsive showcase of my journey, skills, and achievements.
 
 ## 💻 Best Projects
 
-### 1. **[E-commerce Application]([https://github.com/your-username/e-commerce-app](https://chiragtech.ccbp.tech/))**
+### 1. **[E-commerce Application](https://chiragtech.ccbp.tech/)**
    - **Tech Stack**: Node.js, Express, MongoDB, JWT
    - Developed a full-stack e-commerce platform with user authentication, product management, and shopping cart functionalities.
    - Integrated features like JWT-based authentication for secure user access and implemented a RESTful API for handling product and order data.
 
-### 2. **[AI Voicebot]([https://github.com/chiragSahani/ai-voicebot](https://github.com/chiragSahani/AI_Voice_Alexa.git))**
+### 2. **[AI Voicebot](https://github.com/chiragSahani/AI_Voice_Alexa.git)**
    - **Tech Stack**: Python, GPT-4, Speech Recognition
    - Built an AI-powered voicebot similar to Alexa and Siri, leveraging GPT-4 for natural language understanding and speech recognition.
    - Implemented real-time communication, allowing users to interact through voice commands and receive intelligent responses.
 
-### 3. **[Generative AI Application]([[https://github.com/chiragSahani/ai-voicebot](https://aichiragbot.ccbp.tech/)]([https://github.com/chiragSahani/AI_Voice_Alexa.git](https://aichiragbot.ccbp.tech/)))**
+### 3. **[Generative AI Application](https://aichiragbot.ccbp.tech/)**
    - **Tech Stack**: Python, GPT-4, OpenAI API
    - Developed a generative AI application to help users create unique content based on their preferences.
    - Integrated natural language processing (NLP) techniques to enable context-aware generation.
 
-### 4. **[StrideAPI]([https://chiragtech.ccbp.tech/](https://strideapi.wegic.app/))**
+### 4. **[StrideAPI](https://strideapi.wegic.app/))**
    - **Tech Stack**: Node.js, Express, MongoDB, RESTful APIs
    - Built an MVP for a concierge AI-powered ideation API, designed to help businesses generate, refine, and validate product ideas.
    - Features included a web interface, ideation specialists, and a flexible pricing model.
 
-### 5. **[Stroke Prediction]([https://github.com/your-username/stroke-prediction](https://github.com/chiragSahani/Heart_disease.git))**
+### 5. **[Stroke Prediction](https://github.com/chiragSahani/Heart_disease.git)**
    - **Tech Stack**: Python, Machine Learning
    - Developed a machine learning model to predict stroke risk based on input data, using scikit-learn for model training and evaluation.
    - Improved healthcare outcomes by providing early predictions and recommendations based on user data.
 
-### 6. **[Netflix Clone]([https://github.com/your-username/netflix-clone](https://netchir95.ccbp.tech/))**
+### 6. **[Netflix Clone](https://netchir95.ccbp.tech/)**
    - **Tech Stack**: HTML, CSS, JavaScript
    - Built a static version of Netflix to demonstrate front-end development skills and design concepts.
    - Focused on a responsive layout, content management, and UI/UX design.
 
-### 7. **[NestTravels]([https://github.com/your-username/nesttravels](https://nesttravels99.ccbp.tech/))**
+### 7. **[NestTravels](https://nesttravels99.ccbp.tech/)**
    - **Tech Stack**: HTML, CSS, JavaScript
    - Developed a responsive tourism website for exploring travel destinations with a user-friendly interface and optimized for mobile compatibility.
    - Included features like interactive maps and booking systems.
@@ -95,7 +95,7 @@ Hi, I'm **Chirag**, a passionate **Computer Science Engineer** with a knack for 
 ## 📫 Let's Connect!
 
 <p align="center">
-  <a href="[https://linkedin.com/in/your-link](https://www.linkedin.com/in/chiragsahani/)" target="_blank">
+  <a href="(https://www.linkedin.com/in/chiragsahani/)" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" />
   </a>
   <a href="mailto:chiragsahani093@gmail.com" target="_blank">
@@ -108,10 +108,6 @@ Hi, I'm **Chirag**, a passionate **Computer Science Engineer** with a knack for 
 
 ---
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=your-github-username&bg_color=0d1117&color=ffffff&line=00bfff&point=ff9900&area=true&hide_border=true" alt="Activity Graph" />
-</p>
 
----
 
 ⭐ **"Code is my playground, innovation is my game."**  
