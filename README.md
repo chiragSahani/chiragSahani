@@ -41,7 +41,7 @@ Hi, I'm **Chirag**, a passionate **Computer Science Engineer** with a knack for 
    - Developed a generative AI application to help users create unique content based on their preferences.
    - Integrated natural language processing (NLP) techniques to enable context-aware generation.
 
-### 4. **[StrideAPI](https://strideapi.wegic.app/))**
+### 4. **[StrideAPI](https://strideapi.wegic.app/)**
    - **Tech Stack**: Node.js, Express, MongoDB, RESTful APIs
    - Built an MVP for a concierge AI-powered ideation API, designed to help businesses generate, refine, and validate product ideas.
    - Features included a web interface, ideation specialists, and a flexible pricing model.
