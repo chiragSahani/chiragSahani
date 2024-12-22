@@ -158,4 +158,12 @@ Hi, I'm **Chirag**! I'm a **goal-oriented** and **passionate Software Developer*
 
 ![Code is my playground, innovation is my game.](https://media.giphy.com/media/llYRGdTbfdS9PoeP7u/giphy.gif)
 
----
+
+
+
+
+```markdown
+## ⭐ **"Code is my playground, innovation is my game."**
+
+![Innovation Badge](https://img.shields.io/badge/-Innovation-00C853?style=flat&logo=appveyor&logoColor=white&color=green)
+
