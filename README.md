@@ -95,7 +95,7 @@ Hi, I'm **Chirag**, a passionate **Computer Science Engineer** with a knack for 
 ## 📫 Let's Connect!
 
 <p align="center">
-  <a href="(https://www.linkedin.com/in/chiragsahani/)" target="_blank">
+  <a href="https://www.linkedin.com/in/chiragsahani/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" />
   </a>
   <a href="mailto:chiragsahani093@gmail.com" target="_blank">
