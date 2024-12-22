@@ -1,13 +1,8 @@
-# 👋 Welcome to My GitHub Profile!
+## 👋 **Welcome to My GitHub Profile!**
 
 ## 🌟 Let's dive into the world of innovation, code, and creativity.
 
-<div style="width:100%;height:0;padding-bottom:90%;position:relative;">
-  <iframe src="https://giphy.com/embed/3o6Zt5nK0BvZhyS5IE" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
-</div>
-
-<p><a href="https://giphy.com/gifs/3o6Zt5nK0BvZhyS5IE">via GIPHY</a></p>
-
+![Welcome Banner](https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif)
 
 
 
