@@ -1,4 +1,4 @@
-## 👋 **Welcome to My GitHub Profile!**
+
 
 ## 🌟 Let's dive into the world of innovation, code, and creativity.
 
