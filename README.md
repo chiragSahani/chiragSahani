@@ -1,10 +1,6 @@
-
-
 ## 🌟 Let's dive into the world of innovation, code, and creativity.
 
-![Welcome Banner](https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif)
-
-
+![Welcome Banner](https://pixabay.com/gifs/get/gf6d8bf42cb1cd291051e536f3282e6463427471d064df499618cce4ab6a3d97340a9f75e04fdb05a92a4b81c950a6b9b_256.gif)
 
 ---
 
@@ -20,23 +16,15 @@ Hi, I'm **Chirag**! I'm a **goal-oriented** and **passionate Software Developer*
 
 ### 💻 Skills & Technologies:
 - **Programming Languages**: ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white) ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-- **Technologies/Frameworks**: ![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black) ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white) ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white) ![Express](https://img.shields.io/badge/-Express-000000?style=flat&logo=express&logoColor=white)
+- **Technologies/Frameworks**: ![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black) ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)
 
 ### 🏆 Achievements:
 - ![Gold Medal](https://img.shields.io/badge/-Gold%20Medalist-FFD700?style=flat&logo=medal&logoColor=white)
-- 🥇 **Rank 55** in coding contest oraganised on 20th Dec among 10,000 participants.
+- 🥇 **Rank 55** in coding contest organized on 20th Dec among 10,000 participants.
 - 💼 **Vice President** of **ACM Chapter** at CGC
 
-
-
-
-
 ---
-
-
-
 ## 💼 Projects & Work
-
 🚀 **[StrideAPI](https://strideapi.wegic.app/)**  
 - An **AI-powered ideation platform** for businesses to innovate, refine, and validate product ideas.
 
@@ -45,7 +33,6 @@ Hi, I'm **Chirag**! I'm a **goal-oriented** and **passionate Software Developer*
 - A dynamic and responsive showcase of my journey, skills, and achievements.
 
 ## 💻 Best Projects
-
 ### 1. **[E-commerce Application](https://chiragtech.ccbp.tech/)**
    - **Tech Stack**: Node.js, Express, MongoDB, JWT
    - Developed a full-stack e-commerce platform with user authentication, product management, and shopping cart functionalities.
@@ -81,44 +68,19 @@ Hi, I'm **Chirag**! I'm a **goal-oriented** and **passionate Software Developer*
    - Developed a responsive tourism website for exploring travel destinations with a user-friendly interface and optimized for mobile compatibility.
    - Included features like interactive maps and booking systems.
 
-
-
 ---
-
 ## 🛠️ Skills
-
 ### 🎯 Programming Languages:
-[![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)](https://www.python.org)
-[![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white)](https://www.java.com)
-[![C](https://img.shields.io/badge/-C-A8B9CC?style=flat&logo=c&logoColor=white)](https://en.wikipedia.org/wiki/C_(programming_language))
-[![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=cplusplus&logoColor=white)](https://isocpp.org)
-[![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
-[![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat&logo=sqlite&logoColor=white)](https://www.sql.org)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white) ![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white) ![C](https://img.shields.io/badge/-C-A8B9CC?style=flat&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=cplusplus&logoColor=white) ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) ![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat&logo=sqlite&logoColor=white)
 
 ### 🎨 Developer Tools:
-[![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white)](https://code.visualstudio.com/)
-[![Eclipse](https://img.shields.io/badge/-Eclipse-2C2255?style=flat&logo=eclipse&logoColor=white)](https://www.eclipse.org/)
-[![Google Cloud](https://img.shields.io/badge/-Google%20Cloud-4285F4?style=flat&logo=googlecloud&logoColor=white)](https://cloud.google.com)
+![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white) ![Eclipse](https://img.shields.io/badge/-Eclipse-2C2255?style=flat&logo=eclipse&logoColor=white) ![Google Cloud](https://img.shields.io/badge/-Google%20Cloud-4285F4?style=flat&logo=googlecloud&logoColor=white)
 
 ### ⚙️ Technologies/Frameworks:
-[![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)](https://reactjs.org/)
-[![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)](https://nodejs.org/)
-[![Express](https://img.shields.io/badge/-Express-000000?style=flat&logo=express&logoColor=white)](https://expressjs.com/)
-[![Data Structures](https://img.shields.io/badge/-Data%20Structures-FFD700?style=flat&logo=data%20structures&logoColor=white)](https://www.geeksforgeeks.org/data-structures/)
-[![OOPs](https://img.shields.io/badge/-OOPs-008080?style=flat&logo=java&logoColor=white)](https://en.wikipedia.org/wiki/Object-oriented_programming)
-[![Flexbox](https://img.shields.io/badge/-Flexbox-FF69B4?style=flat&logo=css3&logoColor=white)](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
-[![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=linux&logoColor=white)](https://www.linux.org/)
-[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com)
-[![GenAI](https://img.shields.io/badge/-GenAI-800080?style=flat&logo=ai&logoColor=white)](https://openai.com)
-[![PowerBI](https://img.shields.io/badge/-PowerBI-F2C811?style=flat&logo=powerbi&logoColor=white)](https://powerbi.microsoft.com)
-[![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat&logo=figma&logoColor=white)](https://www.figma.com/)
-[![AI/ML](https://img.shields.io/badge/-AI%2FML-00B140?style=flat&logo=ai&logoColor=white)](https://www.microsoft.com/en-us/ai)
-
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black) ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white) ![Express](https://img.shields.io/badge/-Express-000000?style=flat&logo=express&logoColor=white) ![Data Structures](https://img.shields.io/badge/-Data%20Structures-FFD700?style=flat&logo=data%20structures&logoColor=white) ![OOPs](https://img.shields.io/badge/-OOPs-008080?style=flat&logo=java&logoColor=white) ![Flexbox](https://img.shields.io/badge/-Flexbox-FF69B4?style=flat&logo=css3&logoColor=white) ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=linux&logoColor=white) ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white) ![GenAI](https://img.shields.io/badge/-GenAI-800080?style=flat&logo=ai&logoColor=white) ![PowerBI](https://img.shields.io/badge/-PowerBI-F2C811?style=flat&logo=powerbi&logoColor=white) ![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat&logo=figma&logoColor=white) ![AI/ML](https://img.shields.io/badge/-AI%2FML-00B140?style=flat&logo=ai&logoColor=white)
 
 ---
-
 ## 🏆 Achievements
-
 ### 🥇 **Gold Medal in Computer Science Engineering**
 ![Gold Medal](https://img.shields.io/badge/-Gold%20Medal-FFD700?style=flat&logo=medal&logoColor=white)
 
@@ -131,17 +93,11 @@ Hi, I'm **Chirag**! I'm a **goal-oriented** and **passionate Software Developer*
 ### 💼 **Vice President of ACM Student Chapter**
 ![ACM VP](https://img.shields.io/badge/-VP%20of%20ACM%20Chapter-009C73?style=flat&logo=acm&logoColor=white)
 
-
 ### Leadership & Contributions:
 - Currently serving as **Vice President** of the **ACM Student Chapter** at **CGC Jhanjeri**, leading initiatives and community-building efforts within the chapter.
 
-
-
-
 ---
-
 ## 📫 Let's Connect!
-
 <p align="center">
   <a href="https://www.linkedin.com/in/chiragsahani/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" />
@@ -156,15 +112,16 @@ Hi, I'm **Chirag**! I'm a **goal-oriented** and **passionate Software Developer*
 
 ---
 
-
-## ⭐ **Code is my playground, innovation is my game.**
-
-![Code is my playground, innovation is my game.](https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif)
+## 📊 GitHub Stats
+![Chirag's GitHub stats](https://github-readme-stats.vercel.app/api?username=chiragSahani&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chiragSahani&layout=compact&theme=radical)
+![Profile Views](https://komarev.com/ghpvc/?username=chiragSahani&color=blue)
 
 ---
 
+## ⭐ **Code is my playground, innovation is my game.**
 
-
+![Code is my playground, innovation is my game.](https://pixabay.com/gifs/get/g8d4a76d651e30d079de26dbd3a616e497e6549df7f886862c31a01281e34fe086318654f505a8e9fc203e36cf1b88585_256.gif)
 
 
 
