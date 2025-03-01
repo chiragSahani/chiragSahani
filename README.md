@@ -69,7 +69,7 @@ Hi, I'm **Chirag**! I'm a **goal-oriented** and **passionate Software Developer*
    - Built a static version of Netflix to demonstrate front-end development skills and design concepts.
    - Focused on a responsive layout, content management, and UI/UX design.
 
-### 7. **[NestTravels](https://nesttravels99.ccbp.tech/)**
+### 7. **[NestTravels](https://nesttravels.ccbp.tech/)**
    - **Tech Stack**: HTML, CSS, JavaScript
    - Developed a responsive tourism website for exploring travel destinations with a user-friendly interface and optimized for mobile compatibility.
    - Included features like interactive maps and booking systems.
