@@ -1,10 +1,12 @@
 ## 🌟 Let's dive into the world of innovation, code, and creativity.
 
-![Welcome Banner](https://pixabay.com/gifs/get/gf6d8bf42cb1cd291051e536f3282e6463427471d064df499618cce4ab6a3d97340a9f75e04fdb05a92a4b81c950a6b9b_256.gif)
+![Welcome Banner](https://private-user-images.githubusercontent.com/74038190/241765440-80728820-e06b-4f96-9c9e-9df46f0cc0a5.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NDA4MzQxMDIsIm5iZiI6MTc0MDgzMzgwMiwicGF0aCI6Ii83NDAzODE5MC8yNDE3NjU0NDAtODA3Mjg4MjAtZTA2Yi00Zjk2LTljOWUtOWRmNDZmMGNjMGE1LmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTAzMDElMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUwMzAxVDEyNTY0MlomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTRlOGU0OWQ1ZDJmMmIzNjAxOTkxZWRiNWEzZDA2YTIxYjg0MTIwYmY4NGEyZTY5YzA3OTM0MDhiNWFiN2JlODkmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.IOCYyKq6mfqJrKWHMtudLgF8JJwKLQytyi9vv9-ILiI)
 
 ---
 
 ## 🌟 About Me
+
+![About Me](https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif)
 
 Hi, I'm **Chirag**! I'm a **goal-oriented** and **passionate Software Developer** with expertise in **MERN stack**, **Python**, and **JavaScript**. 
 
@@ -25,6 +27,10 @@ Hi, I'm **Chirag**! I'm a **goal-oriented** and **passionate Software Developer*
 
 ---
 ## 💼 Projects & Work
+
+![Project Work](https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif)
+
+
 🚀 **[StrideAPI](https://strideapi.wegic.app/)**  
 - An **AI-powered ideation platform** for businesses to innovate, refine, and validate product ideas.
 
@@ -121,7 +127,7 @@ Hi, I'm **Chirag**! I'm a **goal-oriented** and **passionate Software Developer*
 
 ## ⭐ **Code is my playground, innovation is my game.**
 
-![Code is my playground, innovation is my game.](https://pixabay.com/gifs/get/g8d4a76d651e30d079de26dbd3a616e497e6549df7f886862c31a01281e34fe086318654f505a8e9fc203e36cf1b88585_256.gif)
+![Code is my playground, innovation is my game.](https://user-images.githubusercontent.com/74038190/212750999-42ff8a64-dad8-4772-9648-849968543991.gif)
 
 
 
