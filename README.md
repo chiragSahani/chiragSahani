@@ -6,7 +6,7 @@
 
 ## 🌟 About Me
 
-![About Me](https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif)
+![About Me](https://res.cloudinary.com/dlyctssmy/image/upload/c_fit,h_469,w_434/v1735753291/WhatsApp_Image_2024-04-16_at_21.54.47_758a24ea_ya4kl8.jpg)
 
 Hi, I'm **Chirag**! I'm a **goal-oriented** and **passionate Software Developer** with expertise in **MERN stack**, **Python**, and **JavaScript**. 
 
@@ -76,6 +76,12 @@ Hi, I'm **Chirag**! I'm a **goal-oriented** and **passionate Software Developer*
 
 ---
 ## 🛠️ Skills
+
+---
+
+
+![skills](https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif)
+
 ### 🎯 Programming Languages:
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white) ![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white) ![C](https://img.shields.io/badge/-C-A8B9CC?style=flat&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=cplusplus&logoColor=white) ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) ![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat&logo=sqlite&logoColor=white)
 
