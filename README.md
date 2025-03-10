@@ -79,7 +79,7 @@ Hi, I'm **Chirag**! I'm a **goal-oriented** and **passionate Software Developer*
    - Developed a healthcare management system to digitize patient records and streamline appointment scheduling.
    - Features included user authentication, secure data storage, and real-time notifications.
 
-### 9. **[IPL Prediction](https://github.com/chiragSahani/IPL_Prediction.git)**
+### 9. **[IPL Prediction](https://github.com/chiragSahani/iplPredictor.git)**
    - **Tech Stack**: Python, Machine Learning, Flask
    - Developed a predictive analysis model to forecast IPL match outcomes using historical data.
    - Implemented a web interface for users to input data and get predictions.
