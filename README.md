@@ -74,7 +74,7 @@ Hi, I'm **Chirag**! I'm a **goal-oriented** and **passionate Software Developer*
    - Developed a responsive tourism website for exploring travel destinations with a user-friendly interface and optimized for mobile compatibility.
    - Included features like interactive maps and booking systems.
 
-### 8. **[MedBook](https://github.com/chiragSahani/MedBook.git)**
+### 8. **[MedBook](https://medbookchirag.netlify.app/)**
    - **Tech Stack**: React, Node.js, Express, MongoDB
    - Developed a healthcare management system to digitize patient records and streamline appointment scheduling.
    - Features included user authentication, secure data storage, and real-time notifications.
@@ -84,7 +84,7 @@ Hi, I'm **Chirag**! I'm a **goal-oriented** and **passionate Software Developer*
    - Developed a predictive analysis model to forecast IPL match outcomes using historical data.
    - Implemented a web interface for users to input data and get predictions.
 
-### 10. **[Communion](https://github.com/chiragSahani/Communion.git)**
+### 10. **[Communion](https://communionchirag.netlify.app/)**
    - **Tech Stack**: React, Node.js, Express, MongoDB
    - Built a social media platform to connect people with similar interests and facilitate community-building.
    - Features included user authentication, real-time messaging, and content sharing.
