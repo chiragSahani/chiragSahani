@@ -44,7 +44,7 @@ Hi, I'm **Chirag**! A **goal-oriented** and **passionate Software Developer** wi
 
 🥇 **Gold Medal in Computer Science Engineering**  
 🥈 **Silver Medal in Skill India**  
-🎯 **Ranked 12th ,23rd and 55th: DSA Contest, NxtWave (2025)**
+🎯 **Ranked 12th ,23rd and 55th: DSA Contest, NxtWave (2025)**  
 📌 **Solved 1300+ DSA Problems on CCBP Platform** 🔢💡  
 📜 **Industry-Ready Certification from NxtWave** 🎓🚀  
 🤖 **Demonstrated success in integrating GenAI tools into development workflows** 🔥🧠🤯  
@@ -53,7 +53,6 @@ Hi, I'm **Chirag**! A **goal-oriented** and **passionate Software Developer** wi
 ---
 
 ## 🚀 Projects & Work 
-
 
 ![Project Work](https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif)  
 
@@ -112,6 +111,12 @@ Hi, I'm **Chirag**! A **goal-oriented** and **passionate Software Developer** wi
 🔹 **LinkedIn**: [Chirag Sahani](https://www.linkedin.com/in/chiragsahani/)  
 🔹 **GitHub**: [chiragSahani](https://github.com/chiragSahani)  
 
+---
+
+## 📊 GitHub Stats
+
+![Chirag's GitHub stats](https://github-readme-stats.vercel.app/api?username=chiragSahani&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chiragSahani&layout=compact&theme=radical)
 
 ---
 
