@@ -115,8 +115,9 @@ Hi, I'm **Chirag**! A **goal-oriented** and **passionate Software Developer** wi
 
 ## 📊 GitHub Stats
 
-![Chirag's GitHub stats](https://github-readme-stats.vercel.app/api?username=chiragSahani&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chiragSahani&layout=compact&theme=radical)
+![Chirag Sahani's GitHub Stats](https://github-readme-stats.vercel.app/api?username=chiragSahani&show_icons=true&theme=radical)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=chiragSahani&layout=compact&theme=radical)
 
 ---
 
