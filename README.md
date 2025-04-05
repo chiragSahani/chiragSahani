@@ -1,125 +1,116 @@
-# 🌟 Let's Dive into the World of Innovation, Code, and Creativity  
+<p align="center">
+  <img src="https://i.gifer.com/7plP.gif" width="100%" alt="particles background">
+</p>
 
-![Welcome Banner](https://user-images.githubusercontent.com/74038190/212748842-9fcbad5b-6173-4175-8a61-521f3dbb7514.gif)  
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=28&pause=1000&center=true&vCenter=true&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Chirag+Sahani!;Software+Engineer+%7C+Gold+Medalist+%7C+Web3+Explorer;MERN+Stack+%7C+DSA+%7C+Generative+AI+%7C+REST+APIs" alt="Typing SVG" />
+</h1>
 
----
-
-## 🌟 About Me  
-
-![About Me](https://res.cloudinary.com/dlyctssmy/image/upload/c_fit,h_469,w_434/v1735753291/WhatsApp_Image_2024-04-16_at_21.54.47_758a24ea_ya4kl8.jpg)  
-
-Hi, I'm **Chirag**! A **goal-oriented** and **passionate Software Developer** with expertise in **MERN stack**, **Python**, and **JavaScript**.  
-
-🎓 **Gold Medalist** in **Computer Science Engineering** at **Chandigarh Group of Colleges**  
-🏆 Achievements in building **innovative projects** and excelling in academic and technical challenges.  
-
-🔧 **Currently training in MERN stack and industry-ready certification** with **NxtWave**  
-💡 Skilled in **problem-solving**, building scalable applications, and driving **impactful results**.  
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" height="250" alt="coding animation">
+</p>
 
 ---
 
-## 💻 Skills & Technologies 
-![Skills](https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif)
+## 💡 About Me
 
-### 🎯 Programming Languages:  
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)  
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)  
-![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white)  
-![C](https://img.shields.io/badge/-C-A8B9CC?style=flat&logo=c&logoColor=white)  
-
-### ⚙️ Technologies & Frameworks:  
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)  
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)  
-![Express](https://img.shields.io/badge/-Express-000000?style=flat&logo=express&logoColor=white)  
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)  
-
-### 🛠 Developer Tools:  
-![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white)  
-![Eclipse](https://img.shields.io/badge/-Eclipse-2C2255?style=flat&logo=eclipse&logoColor=white)  
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)  
+- 🥇 **Gold Medalist** – *CSE @ CGC Jhanjeri*
+- 🛠️ **Full Stack Developer** – MERN | Python | GenAI
+- 🧠 **1300+ DSA problems solved** – Optimized & clean!
+- 🧑‍💼 **Intern @ UpGrad** | 🎖️ *Silver Medalist @ Skill India*
+- 🚀 Building **StrideAPI**, **AI Voicebot**, **E-commerce**, and more
+- 🎓 State-level winner – *Skill India Competition*
+- 📈 Led UI/UX redesign project for **Ola App**
+- 🏆 Topped NxtWave Sprint with **120/120**, built **Netflix Clone** & **NestTravels**
+- 🔧 Currently exploring: **Next.js**, **Web3**, **CI/CD**, **DevOps**
 
 ---
 
-## 🏆 Achievements  
+## 🏆 Achievements
 
-🥇 **Gold Medal in Computer Science Engineering**  
-🥈 **Silver Medal in Skill India**  
-🎯 **Ranked 12th ,23rd and 55th: DSA Contest, NxtWave (2025)**  
-📌 **Solved 1300+ DSA Problems on CCBP Platform** 🔢💡  
-📜 **Industry-Ready Certification from NxtWave** 🎓🚀  
-🤖 **Demonstrated success in integrating GenAI tools into development workflows** 🔥🧠🤯  
-💼 **Vice President of ACM Student Chapter at CGC Jhanjeri**  
-
----
-
-## 🚀 Projects & Work 
-
-![Project Work](https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif)  
-
-### 🌟 Featured Projects  
-
-1️⃣ **[E-commerce Application](https://chiragtech.ccbp.tech/)**  
-   - **Tech Stack**: Node.js, Express, MongoDB, JWT  
-   - Full-stack e-commerce platform with authentication, product management & shopping cart.  
-   - JWT-based authentication for security & RESTful API implementation.  
-
-2️⃣ **[AI Voicebot](https://github.com/chiragSahani/AI_Voice_Alexa.git)**  
-   - **Tech Stack**: Python, GPT-4, Speech Recognition  
-   - AI-powered voicebot similar to Alexa/Siri with real-time interaction.  
-
-3️⃣ **[Generative AI Application](https://aichiragbot.ccbp.tech/)**  
-   - **Tech Stack**: Python, GPT-4, OpenAI API  
-   - Context-aware content generation using NLP techniques.  
-
-4️⃣ **[StrideAPI](https://strideapi.wegic.app/)**  
-   - **Tech Stack**: Node.js, Express, MongoDB, RESTful APIs  
-   - AI-powered ideation API for businesses to refine & validate product ideas.  
-
-5️⃣ **[Stroke Prediction](https://github.com/chiragSahani/Heart_disease.git)**  
-   - **Tech Stack**: Python, Machine Learning  
-   - Predicts stroke risk using ML models for early healthcare insights.  
-
-6️⃣ **[Netflix Clone](https://netchir95.ccbp.tech/)**  
-   - **Tech Stack**: HTML, CSS, JavaScript  
-   - A static version showcasing front-end development & UI design.  
-
-7️⃣ **[NestTravels](https://nesttravels.ccbp.tech/)**  
-   - **Tech Stack**: HTML, CSS, JavaScript  
-   - A responsive tourism website with an interactive user interface.  
-
-8️⃣ **[MedBook](https://medbookchirag.netlify.app/)**  
-   - **Tech Stack**: React, Node.js, Express, MongoDB  
-   - Healthcare management system for patient records & appointment scheduling.  
-
-9️⃣ **[IPL Prediction](https://github.com/chiragSahani/iplPredictor.git)**  
-   - **Tech Stack**: Python, Machine Learning, Flask  
-   - Predicts IPL match outcomes using historical data.  
-
-🔟 **[Communion](https://communionchirag.netlify.app/)**  
-   - **Tech Stack**: React, Node.js, Express, MongoDB  
-   - Social media platform with real-time messaging & content sharing.  
+- 🥇 **Gold Medalist** in B.Tech – Computer Science Engineering at CGC Jhanjeri  
+- 🥈 **Silver Medalist** at State-Level **Skill India** Competition  
+- 📚 Completed NxtWave’s **DSA Sprint 3** with a **perfect 120/120 score**  
+- 🎯 Developed **2 complete frontend projects** during the sprint:  
+  - **Netflix Clone** – UI-focused static replica  
+  - **NestTravels** – Responsive tourism site  
+- 💼 Selected as **Content Intern at UpGrad** – Contributing to GenAI & EdTech  
+- 🎤 Speaker & **Vice President** of ACM Student Chapter @ CGC Jhanjeri  
+- 🎨 Redesigned the **Ola App UI/UX** as a capstone project  
+- 🧠 Created a **Generative AI Ideation MVP** (StrideAPI)  
+- 🧪 Built ML Model for **Stroke Prediction**
 
 ---
 
-## 🌐 Portfolio Website  
-🔗 **[View Here](https://chiragsahni093.netlify.app/)**  
+## 🔧 Tech Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,nodejs,express,mongodb,nextjs,python,java,git,github,vscode" />
+</p>
 
 ---
 
-## 📫 Connect With Me  
+## 🚀 Projects Showcase
 
-🔹 **LinkedIn**: [Chirag Sahani](https://www.linkedin.com/in/chiragsahani/)  
-🔹 **GitHub**: [chiragSahani](https://github.com/chiragSahani)  
+| Project | Description | Live Link |
+|--------|-------------|-----------|
+| 🛍️ **E-commerce App** | Full-stack MERN e-com store | [Visit](https://chiragtech.ccbp.tech) |
+| 🎙️ **AI Voicebot** | AI-powered assistant with GPT | [GitHub](https://github.com/chiragSahani/AI_Voice_Alexa.git) |
+| ⚡ **GenAI App** | Generative AI for tasks | [Live](https://aichiragbot.ccbp.tech) |
+| 🔗 **StrideAPI** | AI ideation and validation MVP | [Live](https://strideapi.wegic.app) |
+| ❤️ **Stroke Prediction** | ML model to predict health risk | [GitHub](https://github.com/chiragSahani/Heart_disease.git) |
+| 🎥 **Netflix Clone** | Static frontend clone of Netflix | [Live](https://netchir95.ccbp.tech) |
+| ✈️ **NestTravels** | Responsive tourism website | [Live](https://nesttravels.ccbp.tech) |
+| 💬 **ChatRoom** | Real-time group chat using Socket.io | [Live](https://chiragchat.netlify.app) |
+| 📊 **CryptoNext** | Crypto price dashboard w/ charts | [Live](https://chiragnexus.netlify.app) |
+| 🧑‍💼 **New Portfolio** | Revamped personal portfolio | [Live](https://chiragsahani.netlify.app) |
+| 🩺 **MedBook** | Patient-doctor record management system | [Live](https://medbookchirag.netlify.app) |
+
 
 ---
 
-## 📊 GitHub Stats
+## 🧠 Fun With Code Blocks
 
-![Chirag Sahani's GitHub Stats](https://github-readme-stats.vercel.app/api?username=chiragSahani&show_icons=true&theme=radical)
+```javascript
+const developer = {
+  name: "Chirag Sahani",
+  techStack: ["React", "Node.js", "MongoDB", "Tailwind", "Python", "GenAI"],
+  currentlyLearning: ["Next.js", "Web3", "CI/CD"],
+  github: "https://github.com/chiragSahani"
+};
+```
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=chiragSahani&layout=compact&theme=radical)
+```bash
+# Deploying ideas with AI
+npx stride-api init --idea "Build a smart ideation tool"
+```
 
 ---
 
-### 🚀 Always Innovating & Exploring the Future of Technology! 🌍  
-![Innovation](https://user-images.githubusercontent.com/74038190/212750999-42ff8a64-dad8-4772-9648-849968543991.gif)
+## 📊 GitHub Stats & Activity
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=chiragSahani&theme=tokyonight" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=chiragSahani&show_icons=true&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chiragSahani&layout=compact&theme=radical" />
+</p>
+
+---
+
+## 🌐 Let's Connect!
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/chiragsahani/"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="mailto:chiragsahani2002@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://chiragsahani.netlify.app/"><img src="https://img.shields.io/badge/-Portfolio-black?style=for-the-badge&logo=web&logoColor=white"/></a>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
+</p>
+
+<h3 align="center">Keep Grinding. Keep Growing. 💻⚡</h3>
+```
+
