@@ -23,7 +23,7 @@
 <p align="center">
   <b>
     <span style="background: #2196f3; color: white; padding: 4px 10px; border-radius: 6px;">EX</span>
-    Frontend Developer at <a href="https://oulier.com" style="color:#2196f3;">Outlier</a>
+    Frontend Developer at <a href="https://outlier.ai/" style="color:#2196f3;">Outlier</a>
     &nbsp;|&nbsp;
     EX Solution Software Engineer at <a href="https://www.ccbp.in/" style="color:#ff9800;">NxtWave</a>
   </b>
