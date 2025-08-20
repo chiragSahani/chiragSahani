@@ -12,6 +12,25 @@
 
 ---
 
+## 💼 Career Timeline
+
+<p align="center">
+  <b>
+    <span style="background: #4caf50; color: white; padding: 4px 10px; border-radius: 6px;"></span>
+    Software Development Engineer at <a href="https://trao.ai" style="color:#00bcd4;">Trao.ai</a> <i>(AI Full Stack)</i>
+  </b>
+</p>
+<p align="center">
+  <b>
+    <span style="background: #2196f3; color: white; padding: 4px 10px; border-radius: 6px;">EX</span>
+    Frontend Developer at <a href="https://oulier.com" style="color:#2196f3;">Outlier</a>
+    &nbsp;|&nbsp;
+    EX Solution Software Engineer at <a href="https://www.ccbp.in/" style="color:#ff9800;">NxtWave</a>
+  </b>
+</p>
+
+---
+
 ## 💡 About Me
 
 - 🥇 **Gold Medalist** – *CSE @ CGC Jhanjeri*
@@ -68,8 +87,6 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
 
-
-
 ---
 
 ## 🚀 Projects Showcase
@@ -87,7 +104,6 @@
 | 📊 **CryptoNext** | Crypto price dashboard w/ charts | [Live](https://chiragnexus.netlify.app) |
 | 🧑‍💼 **New Portfolio** | Revamped personal portfolio | [Live](https://chiragsahani.netlify.app) |
 | 🩺 **MedBook** | Patient-doctor record management system | [Live](https://medbookchirag.netlify.app) |
-
 
 ---
 
@@ -134,5 +150,3 @@ npx stride-api init --idea "Build a smart ideation tool"
 </p>
 
 <h3 align="center">Keep Grinding. Keep Growing. 💻⚡</h3>
-```
-
