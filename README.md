@@ -1,152 +1,270 @@
-<p align="center">
-  <img src="https://i.gifer.com/7plP.gif" width="100%" alt="particles background">
-</p>
+# 💻 Chirag Sahani | Software Engineer
 
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=28&pause=1000&center=true&vCenter=true&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Chirag+Sahani!;Software+Engineer+%7C+Gold+Medalist+%7C+Web3+Explorer;MERN+Stack+%7C+DSA+%7C+Generative+AI+%7C+REST+APIs" alt="Typing SVG" />
-</h1>
+```ascii
+╔═══════════════════════════════════════════════════════════════╗
+║  Full Stack Developer • AI/ML Engineer • System Architect    ║
+║  TypeScript • React • Node.js • Python • Cloud Computing    ║
+╚═══════════════════════════════════════════════════════════════╝
+```
 
-<p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" height="250" alt="coding animation">
-</p>
+<div align="center">
+  
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=00FF41&center=true&vCenter=true&width=800&lines=const+developer+%3D+%7B+name%3A+%22Chirag%22%2C+role%3A+%22SDE%22+%7D%3B;Building+scalable+systems+%26+AI-powered+solutions;TypeScript+%7C+React+%7C+Node.js+%7C+Python+%7C+MongoDB;System+Design+%7C+Backend+APIs+%7C+Cloud+Architecture)](https://git.io/typing-svg)
 
----
-
-## 💼 Career Timeline
-
-<p align="center">
-  <b>
-    <span style="background: #4caf50; color: white; padding: 4px 10px; border-radius: 6px;"></span>
-    Software Development Engineer at <a href="https://trao.ai" style="color:#00bcd4;">Trao.ai</a> <i>(AI Full Stack)</i>
-  </b>
-</p>
-<p align="center">
-  <b>
-    <span style="background: #2196f3; color: white; padding: 4px 10px; border-radius: 6px;">EX</span>
-    Frontend Developer at <a href="https://outlier.ai/" style="color:#2196f3;">Outlier</a>
-    &nbsp;|&nbsp;
-    EX Solution Software Engineer at <a href="https://www.ccbp.in/" style="color:#ff9800;">NxtWave</a>
-  </b>
-</p>
+</div>
 
 ---
 
-## 💡 About Me
+## 🏗️ System Architecture & Tech Stack
 
-- 🥇 **Gold Medalist** – *CSE @ CGC Jhanjeri*
-- 🛠️ **Full Stack Developer** – MERN | Python | GenAI
-- 🧠 **1300+ DSA problems solved** – Optimized & clean!
-- 🧑‍💼 **Intern @ UpGrad** | 🎖️ *Silver Medalist @ Skill India*
-- 🚀 Building **StrideAPI**, **AI Voicebot**, **E-commerce**, and more
-- 🎓 State-level winner – *Skill India Competition*
-- 📈 Led UI/UX redesign project for **Ola App**
-- 🏆 Topped NxtWave Sprint with **120/120**, built **Netflix Clone** & **NestTravels**
-- 🔧 Currently exploring: **Next.js**, **Web3**, **CI/CD**, **DevOps**
+```mermaid
+graph TB
+    A[Frontend Layer] --> B[API Gateway]
+    B --> C[Microservices]
+    C --> D[Database Layer]
+    C --> E[AI/ML Services]
+    
+    A1[React/Next.js] --> A
+    A2[TypeScript] --> A
+    A3[Tailwind CSS] --> A
+    
+    B1[Express.js] --> B
+    B2[Node.js] --> B
+    
+    C1[Authentication] --> C
+    C2[Business Logic] --> C
+    C3[Data Processing] --> C
+    
+    D1[MongoDB] --> D
+    D2[Supabase] --> D
+    
+    E1[OpenAI API] --> E
+    E2[Custom ML Models] --> E
+```
 
----
+## 🧠 Core Competencies
 
-## 🏆 Achievements
+<table>
+<tr>
+<td valign="top" width="50%">
 
-- 🥇 **Gold Medalist** in B.Tech – Computer Science Engineering at CGC Jhanjeri  
-- 🥈 **Silver Medalist** at State-Level **Skill India** Competition  
-- 📚 Completed NxtWave’s **DSA Sprint 3** with a **perfect 120/120 score**  
-- 🎯 Developed **2 complete frontend projects** during the sprint:  
-  - **Netflix Clone** – UI-focused static replica  
-  - **NestTravels** – Responsive tourism site  
-- 💼 Selected as **Content Intern at UpGrad** – Contributing to GenAI & EdTech  
-- 🎤 Speaker & **Vice President** of ACM Student Chapter @ CGC Jhanjeri  
-- 🎨 Redesigned the **Ola App UI/UX** as a capstone project  
-- 🧠 Created a **Generative AI Ideation MVP** (StrideAPI)  
-- 🧪 Built ML Model for **Stroke Prediction**
+### **Frontend Engineering**
+```typescript
+interface FrontendSkills {
+  languages: ['TypeScript', 'JavaScript'];
+  frameworks: ['React', 'Next.js'];
+  styling: ['Tailwind CSS', 'Styled Components'];
+  bundlers: ['Vite', 'Webpack'];
+  animation: ['Framer Motion', 'CSS3'];
+  state: ['Redux', 'Zustand', 'Context API'];
+}
+```
 
----
+</td>
+<td valign="top" width="50%">
 
-## 🔧 Tech Stack
+### **Backend & Infrastructure**
+```python
+class BackendSkills:
+    def __init__(self):
+        self.languages = ['Python', 'Node.js']
+        self.frameworks = ['Express.js', 'FastAPI']
+        self.databases = ['MongoDB', 'PostgreSQL']
+        self.cloud = ['AWS', 'Vercel', 'Supabase']
+        self.apis = ['REST', 'GraphQL', 'WebSockets']
+        self.auth = ['JWT', 'OAuth2', 'Supabase Auth']
+```
 
-### 🛠️ Tech Stack
+</td>
+</tr>
+</table>
 
-<!-- Programming Languages -->
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python)
+## 🚀 Featured Repositories
 
-<!-- Frontend -->
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-06B6D4?style=flat-square&logo=tailwind-css&logoColor=white)
-![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+### **🔥 Latest Releases (2025)**
 
-<!-- Backend -->
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/-Express.js-000000?style=flat-square&logo=express&logoColor=white)
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+<div align="center">
 
-<!-- Tools -->
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
-![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
+| Repository | Tech Stack | Architecture | Status |
+|-----------|------------|--------------|---------|
+| **[InsydNotification](https://github.com/chiragSahani/InsydNotification)** | `TypeScript` `React` `Hooks` | Component Library | ![Status](https://img.shields.io/badge/Status-Active-brightgreen) |
+| **[resume-formatter](https://github.com/chiragSahani/resume-formatter)** | `TypeScript` `AI API` `PDF Parser` | ML Pipeline | ![Status](https://img.shields.io/badge/Status-Active-brightgreen) |
+| **[CareConnect](https://github.com/chiragSahani/CareConnect)** | `TypeScript` `React` `Chart.js` `Analytics` | Healthcare SaaS | ![Status](https://img.shields.io/badge/Status-Production-blue) |
+| **[employee-directory](https://github.com/chiragSahani/employee-directory)** | `React` `Vite` `Tailwind` `REST API` | Enterprise App | ![Status](https://img.shields.io/badge/Status-Completed-success) |
 
----
+</div>
 
-## 🚀 Projects Showcase
-
-| Project | Description | Live Link |
-|--------|-------------|-----------|
-| 🛍️ **E-commerce App** | Full-stack MERN e-com store | [Visit](https://chiragtech.ccbp.tech) |
-| 🎙️ **AI Voicebot** | AI-powered assistant with GPT | [GitHub](https://github.com/chiragSahani/AI_Voice_Alexa.git) |
-| ⚡ **GenAI App** | Generative AI for tasks | [Live](https://aichiragbot.ccbp.tech) |
-| 🔗 **StrideAPI** | AI ideation and validation MVP | [Live](https://strideapi.wegic.app) |
-| ❤️ **Stroke Prediction** | ML model to predict health risk | [GitHub](https://github.com/chiragSahani/Heart_disease.git) |
-| 🎥 **Netflix Clone** | Static frontend clone of Netflix | [Live](https://netchir95.ccbp.tech) |
-| ✈️ **NestTravels** | Responsive tourism website | [Live](https://nesttravels.ccbp.tech) |
-| 💬 **ChatRoom** | Real-time group chat using Socket.io | [Live](https://chiragchat.netlify.app) |
-| 📊 **CryptoNext** | Crypto price dashboard w/ charts | [Live](https://chiragnexus.netlify.app) |
-| 🧑‍💼 **New Portfolio** | Revamped personal portfolio | [Live](https://chiragsahani.netlify.app) |
-| 🩺 **MedBook** | Patient-doctor record management system | [Live](https://medbookchirag.netlify.app) |
-
----
-
-## 🧠 Fun With Code Blocks
+### **🔧 Core Infrastructure Projects**
 
 ```javascript
-const developer = {
-  name: "Chirag Sahani",
-  techStack: ["React", "Node.js", "MongoDB", "Tailwind", "Python", "GenAI"],
-  currentlyLearning: ["Next.js", "Web3", "CI/CD"],
-  github: "https://github.com/chiragSahani"
+const coreProjects = {
+  "BackendArchitecture": {
+    stack: ["Node.js", "Express", "MongoDB", "JWT"],
+    patterns: ["MVC", "Middleware", "Error Handling", "API Versioning"],
+    features: ["Authentication", "Rate Limiting", "Logging", "Validation"]
+  },
+  "ScrapWiki": {
+    stack: ["JavaScript", "Puppeteer", "Cheerio", "Node.js"],
+    patterns: ["Web Scraping", "Data Pipeline", "Async Processing"],
+    use_case: "Knowledge Extraction & Data Mining"
+  }
 };
 ```
 
+## 📊 System Performance Metrics
+
+<div align="center">
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=chiragSahani&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true&custom_title=System%20Performance%20Analytics)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=chiragSahani&layout=compact&theme=github_dark&hide_border=true&langs_count=8&custom_title=Technology%20Distribution)
+
+</div>
+
+### **📈 Development Activity**
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=chiragSahani&theme=github-compact&bg_color=0d1117&color=58a6ff&line=1f6feb&point=f0f6fc&area=true&hide_border=true)
+
+### **⚡ Contribution Streak**
+<div align="center">
+  
+![GitHub Streak](https://streak-stats.demolab.com?user=chiragSahani&theme=github-dark-blue&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)
+
+</div>
+
+## 🏆 Technical Achievements
+
+```python
+achievements = {
+    "academic": {
+        "cse_gold_medal": "B.Tech Computer Science Engineering",
+        "skill_india_silver": "State-Level Programming Competition",
+        "perfect_dsa_score": "120/120 in Advanced Data Structures"
+    },
+    "professional": {
+        "upgrad_intern": "Content Development - EdTech & GenAI",
+        "acm_vp": "Vice President - ACM Student Chapter",
+        "dsa_problems": "1300+ algorithmic problems solved"
+    },
+    "technical": {
+        "system_design": "Scalable microservices architecture",
+        "ai_integration": "GPT & custom ML model implementations",
+        "performance": "Sub-100ms API response optimization"
+    }
+}
+```
+
+## 🔬 Research & Development
+
+### **AI/ML Projects**
+- **Generative AI Pipeline**: Custom GPT integration for business automation
+- **Healthcare Analytics**: Predictive models for patient management
+- **NLP Processing**: Document parsing and intelligent formatting systems
+- **Web Scraping Engine**: Distributed data extraction architecture
+
+### **System Design Contributions**
+- **Microservices Architecture**: Modular backend systems with Docker
+- **Real-time Systems**: WebSocket implementation for live notifications
+- **Database Optimization**: Query optimization and indexing strategies
+- **API Design**: RESTful services with comprehensive documentation
+
+## 🛠️ Development Environment
+
 ```bash
-# Deploying ideas with AI
-npx stride-api init --idea "Build a smart ideation tool"
+# Terminal Setup
+OS: Linux/macOS
+Shell: zsh + oh-my-zsh
+Editor: VS Code + Vim keybindings
+Terminal: iTerm2/Alacritty
+
+# Development Stack
+Runtime: Node.js v18+, Python 3.9+
+Package Manager: npm, yarn, pip
+Version Control: Git + GitHub
+Containerization: Docker
+Database: MongoDB Compass, pgAdmin
+API Testing: Postman, curl
+Monitoring: Chrome DevTools, Network Tab
+```
+
+## 📡 API Endpoints & Services
+
+<details>
+<summary><strong>🔗 Sample REST API Architecture</strong></summary>
+
+```javascript
+// Authentication Service
+POST   /api/auth/register
+POST   /api/auth/login
+GET    /api/auth/profile
+PUT    /api/auth/profile
+
+// Notification Service (InsydNotification)
+GET    /api/notifications
+POST   /api/notifications
+PUT    /api/notifications/:id
+DELETE /api/notifications/:id
+
+// Healthcare Service (CareConnect)
+GET    /api/patients
+POST   /api/appointments
+GET    /api/analytics/dashboard
+```
+
+</details>
+
+## 🌐 Network & Contact
+
+<div align="center">
+
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/chiragSahani)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/chiragsahani/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://chiragsahani.netlify.app/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:chiragsahani2002@gmail.com)
+
+</div>
+
+## 💡 Current Development Focus
+
+```typescript
+interface CurrentFocus {
+  learning: {
+    backend: ['Microservices', 'Event-Driven Architecture'];
+    frontend: ['Next.js 14', 'Server Components', 'Streaming'];
+    devops: ['Docker', 'CI/CD', 'AWS Services'];
+    ai: ['LangChain', 'Vector Databases', 'RAG Systems'];
+  };
+  
+  building: {
+    saas: 'Healthcare management platform';
+    tools: 'Developer productivity suite';
+    ai: 'Document processing automation';
+  };
+  
+  contributing: {
+    opensource: 'React component libraries';
+    community: 'Technical blog posts & tutorials';
+    mentorship: 'Code reviews & pair programming';
+  };
+}
 ```
 
 ---
 
-## 📊 GitHub Stats & Activity
+<div align="center">
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=chiragSahani&theme=tokyonight" alt="GitHub Streak" />
-  <img src="https://github-readme-stats.vercel.app/api?username=chiragSahani&show_icons=true&theme=radical" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chiragSahani&layout=compact&theme=radical" />
-</p>
+### 🎯 System Status: `ONLINE` | Performance: `OPTIMIZED` | Next Deployment: `SCHEDULED`
 
----
+```bash
+$ git commit -m "feat: building the future, one commit at a time"
+$ git push origin main
+```
 
-## 🌐 Let's Connect!
+*"Clean code, scalable architecture, and continuous learning."*
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/chiragsahani/"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="mailto:chiragsahani2002@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://chiragsahani.netlify.app/"><img src="https://img.shields.io/badge/-Portfolio-black?style=for-the-badge&logo=web&logoColor=white"/></a>
-</p>
+</div>
 
 ---
 
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
-</p>
-
-<h3 align="center">Keep Grinding. Keep Growing. 💻⚡</h3>
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer&reversal=true"/>
+</div>
